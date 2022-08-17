@@ -2,7 +2,7 @@
 - 👀 I’m interested in video games, animal welfare, healthcare, and raspberry pi projects.
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on anything an entry-level/new-to-programming can contribute to
-- 📫 How to reach me [TBD]
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/catn/)
 
 <!---
 catcecilia/catcecilia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
